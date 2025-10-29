@@ -125,7 +125,8 @@ body, html {
   writing-mode: initial; /* אם רוצים עיגול טקסט, יש טריק ב-SVG */
 }
 .price-circle .price {
-  font-size: 72px;
+  font-size: 120px;
+    letter-spacing: -0.6rem;
   color: #ff9d00;
   font-weight: bold;
   line-height: 1;
@@ -199,6 +200,7 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
 
 
 
