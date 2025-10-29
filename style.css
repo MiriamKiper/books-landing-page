@@ -96,7 +96,7 @@ body, html {
 
     .contact a {
         color: #fff;
-        text-decoration: underline;
+        text-decoration: none;
     }
 
 .price-circle {
@@ -200,6 +200,7 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
 
 
 
