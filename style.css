@@ -39,7 +39,7 @@ body, html {
 }
 
 .highlight {
-    font-size: 4.2rem;
+    font-size: 6.2rem;
     display: block;
 }
 
@@ -200,6 +200,7 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
 
 
 
