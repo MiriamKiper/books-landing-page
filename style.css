@@ -161,7 +161,7 @@ body, html {
   top: 50%;
   left: 8%; /* כמה רחוק מהשוליים השמאליים */
   transform: translateY(-50%);
-  text-align: left;
+  text-align: center;
   color: white;
   max-width: 500px;
 }
@@ -191,3 +191,4 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
