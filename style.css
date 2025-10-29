@@ -2,7 +2,7 @@ body, html {
     margin: 0;
     padding: 0;
     direction: rtl;
-    font-family: 'Assistant', sans-serif;
+    font-family: 'Noto Sans Hebrew', sans-serif;
     color: white;
     height: 100%;
 }
@@ -31,7 +31,6 @@ body, html {
 }
 
 .title {
-    font-family: 'Alef', sans-serif;
     font-family: 'Noto Sans Hebrew', sans-serif;
     font-weight: 700;
     line-height: 1.1;
@@ -201,6 +200,7 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
 
 
 
