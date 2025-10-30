@@ -177,7 +177,7 @@ body, html {
 .hero-content h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  line-height: 4.6rem;
+  line-height: 5.4rem;
 }
 
 .hero-content p {
@@ -201,6 +201,7 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
 
 
 
