@@ -21,7 +21,6 @@ body, html {
     height: 100%;
     display: flex;
     align-items: center;
-    padding: 5vw;
     position: relative;
 }
 
@@ -202,6 +201,7 @@ body, html {
 .hero-content .cta-button:hover {
   background-color: #c2a35e;
 }
+
 
 
 
