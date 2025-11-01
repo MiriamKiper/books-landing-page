@@ -8,7 +8,7 @@ body, html {
 }
 
 .hero {
-    background: url("background.jpg") center center / cover no-repeat;
+    background: url("background.webp") center center / cover no-repeat;
     height: 100vh;
     position: relative;
     display: flex;
@@ -19,7 +19,7 @@ body, html {
 /* גרסה למובייל */
 @media (max-width: 768px) {
   .hero {
-    background: url("mobile.jpeg") center center / cover no-repeat;
+    background: url("mobile.webp") center center / cover no-repeat;
   }
     .hero-content{
         max-width: 100%!important;
@@ -198,6 +198,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
