@@ -153,8 +153,11 @@ left: 8%;
 }
 
 .hero-content h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 1rem;
+    .text-book{
+          line-height: 4.5;
+    }
 }
 
 .hero-content p {
@@ -186,6 +189,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
