@@ -21,6 +21,9 @@ body, html {
   .hero {
     background: url("mobile.jpeg") center center / cover no-repeat;
   }
+    .hero-content{
+        max-width: 80%;
+    }
 }
 
 .overlay {
@@ -142,7 +145,7 @@ body, html {
 .hero-content {
   position: absolute;
   top: 50%;
-  left: 8%; /* כמה רחוק מהשוליים השמאליים */
+   /*left: 8%;* כמה רחוק מהשוליים השמאליים */
   transform: translateY(-50%);
   text-align: center;
   color: white;
@@ -184,6 +187,7 @@ body, html {
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
