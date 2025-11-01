@@ -155,7 +155,6 @@ left: 8%;
 .hero-content h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  line-height: 5.4rem;
 }
 
 .hero-content p {
@@ -187,6 +186,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
