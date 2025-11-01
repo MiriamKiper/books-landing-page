@@ -51,7 +51,6 @@ body, html {
 }
 .text-book{
           font-size: 5.2rem;
-          line-height: 4.5;
     }
 .highlight {
     font-size: 5.2rem;
@@ -194,6 +193,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
