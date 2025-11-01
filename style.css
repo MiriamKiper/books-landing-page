@@ -142,17 +142,12 @@ body, html {
 
     .highlight {
         font-size: 3rem;
-    }
-
-   
-    
+    }    
 }
 
 .hero-content {
   position: absolute;
-  top: 50%;
 left: 8%;
-  transform: translateY(-50%);
   text-align: center;
   color: white;
   max-width: 42%;
@@ -193,6 +188,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
