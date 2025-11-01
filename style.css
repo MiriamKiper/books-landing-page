@@ -22,10 +22,10 @@ body, html {
     background: url("mobile.jpeg") center center / cover no-repeat;
   }
     .hero-content{
-        max-width: 80%!important;
+        max-width: 100%!important;
         left:0!important;
-        margin-left: 1rem;
-        margin-right: 1rem;
+        margin-left: 1.5rem;
+        margin-right: 1.5rem;
     }
 }
 
@@ -193,6 +193,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
