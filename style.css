@@ -51,6 +51,7 @@ body, html {
 }
 .text-book{
           font-size: 5.2rem;
+    font-weight:100;
     }
 .highlight {
     font-size: 5.2rem;
@@ -140,7 +141,7 @@ body, html {
         padding-top: 10vh;
     }
 
-    .highlight {
+    .title {
         font-size: 3rem;
     }    
 }
@@ -156,7 +157,7 @@ left: 8%;
 .hero-content h1 {
   font-size: 1rem;
   margin-bottom: 1rem;
-    
+    line-height:0.8rem;
 }
 
 .hero-content p {
@@ -188,6 +189,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
