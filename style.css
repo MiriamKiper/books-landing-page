@@ -135,7 +135,7 @@ body, html {
 
 @media (max-width: 900px) {
     .overlay {
-        flex-direction: column;
+       
         justify-content: flex-start;
         text-align: center;
         padding-top: 10vh;
@@ -198,6 +198,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
