@@ -144,6 +144,15 @@ body, html {
     .title {
         font-size: 3rem;
     }    
+    .price-circle {
+  position: absolute;
+  top: 5%!important;
+  right: 15%!important;
+  width: 100px!important;
+  height: 1080px!important;
+
+}
+
 }
 
 .hero-content {
@@ -189,6 +198,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
