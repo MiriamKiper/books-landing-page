@@ -50,11 +50,11 @@ body, html {
     color: #f6b61a;
 }
 .text-book{
-          font-size: 5.2rem;
+          font-size: 4.9rem;
     font-weight:100;
     }
 .highlight {
-    font-size: 5.2rem;
+    font-size: 4.9rem;
     display: block;
     font-weight: 900;
 }
@@ -198,6 +198,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
