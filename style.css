@@ -19,7 +19,7 @@ body, html {
 /* גרסה למובייל */
 @media (max-width: 768px) {
   .hero {
-    background: url("mobile.png") center center / cover no-repeat;
+    background: url("mobile.jpeg") center center / cover no-repeat;
   }
 }
 
@@ -184,6 +184,7 @@ body, html {
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
