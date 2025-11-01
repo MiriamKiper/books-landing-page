@@ -147,7 +147,7 @@ body, html {
     .price-circle {
   position: absolute;
   top: 5%!important;
-  right: 15%!important;
+  right: 2%!important;
   width: 100px!important;
   height: 100px!important;
 
@@ -198,6 +198,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
