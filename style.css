@@ -20,6 +20,8 @@ body, html {
 @media (max-width: 768px) {
   .hero {
     background: url("mobile.webp") center center / cover no-repeat;
+      min-height: 100vh;
+    height: auto!important;
   }
     .hero-content{
         max-width: 100%!important;
@@ -208,6 +210,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
