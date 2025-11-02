@@ -135,15 +135,21 @@ body, html {
   font-family: 'Alef', 'Assistant', sans-serif;
   z-index: 2;
 }
-
+.desc-mobile{
+    display:none;
+}
 @media (max-width: 900px) {
     .overlay {
        
         justify-content: flex-start;
         text-align: center;
-        padding-top: 10vh;
     }
-
+.desc-mobile{
+    font-size: 1rem;
+    line-height: 1.6;
+    color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 1.5rem;
+}
     .title {
         font-size: 3rem;
     }    
@@ -201,6 +207,7 @@ left: 8%;
    border-radius: 50%;
   object-fit: cover; /* או contain אם רוצים שהתמונה תישמר בפרופורציות */
 }
+
 
 
 
